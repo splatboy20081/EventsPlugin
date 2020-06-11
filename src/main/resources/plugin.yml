@@ -1,1 +1,7 @@
-main: EventsMain.class
+main: EventsPlugin
+author: Splatboy20081
+permissions:
+  eventsplugin.move:
+    description: Are you allowed to move? kek no or kek yes.
+  eventsplugin.breakblocks:
+    description: Can you break blocks?
